@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+  background-color: blanchedalmond;
+}
+table {
+  border: dashed 1px black;
+}
+th {
+  border: solid 1px black;
+}
+td {
+  border: solid 1px black;
+}
